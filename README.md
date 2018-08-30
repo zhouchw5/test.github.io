@@ -17,7 +17,7 @@ Another available path is directly using the link of the README file, which can 
 ## Mathematics and Computing      
          
 ### Linear Algebra         
-I tend to understand the product among matrixes or between a matrix and a vector with eigen-equations. 
+I tend to understand the product among matrixes or between a matrix and a vector with eigen-equations. This is also the way that helps me to figure the diagonalization of matrixes in another perspective. 
 
 ## Musotrees         
 This email may be another useless attempt to track my dreamed characters.    
