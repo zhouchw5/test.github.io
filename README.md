@@ -18,7 +18,12 @@ Another available path is directly using the link of the README file, which can 
          
 ### Linear Algebra         
 I tend to understand the product among matrixes or between a matrix and a vector with eigen-equations. This is also the way that helps me to figure the diagonalization of matrixes in another perspective. 
+      
+### Python
+How to install a neede toolkit in Python?       
+We can open Anaconda Prompt and then type **'pip install + the name of the toolkit'** to install the treasure needed.       
 
+      
 ## Musotrees         
 This email may be another useless attempt to track my dreamed characters.    
         
