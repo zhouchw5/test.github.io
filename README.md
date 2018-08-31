@@ -23,8 +23,12 @@ I tend to understand the product among matrixes or between a matrix and a vector
 How to install a neede toolkit in Python?       
 We can open Anaconda Prompt and then type **'pip install + the name of the toolkit'** to install the treasure needed.       
 
+
       
 ## Musotrees         
-This email may be another useless attempt to track my dreamed characters.    
-        
+This email may be another useless attempt to track my dreamed characters.        
+
+### Education         
+People generally regard a college degree as an indication of some capable abilities, which I do not agree with at all. It seems not so necessary to graduate from a college and you would agree with me if you look to somebody like Steve Jobs and Bill Gates. 
+
         
