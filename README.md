@@ -31,4 +31,6 @@ This email may be another useless attempt to track my dreamed characters.
 ### Education         
 People generally regard a college degree as an indication of some capable abilities, which I do not agree with at all. It seems not so necessary to graduate from a college and you would agree with me if you look to somebody like Steve Jobs and Bill Gates. 
 
+我觉得在做选择的时候，有一样东西能让你坚定的放弃即时性享乐，这样东西就可称得上信仰。说实话我目前还没找到，很多时候是靠自制力和自律去执行自己的计划。但我总感觉自己快找到了。即时性享乐就一定是坏的，浪费时间的吗？ 有一点可以基本确认的是，日后你回想起仍给你以触动的，一定不是这些消费性的享乐。但如果日后回想不起来，就说明这一切的毫无意义吗？不见得。我们过分关注时间了，压根就没有考虑过其他的可能性，比如昙花一现有没有可能是褒义词。我不知道。有多少人努力良久，昙花一现都无法实现。
+
         
